@@ -43,8 +43,7 @@ Please consider citing our work if you find it useful.
   volume={31},
   pages={6922--6936},
   year={2022},
-  publisher={IEEE}
-}
+  publisher={IEEE}}
 
 ```
 
