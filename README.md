@@ -28,7 +28,7 @@ Another two projects related to this work will be released soon, they are:
 
 [MKLFC (arXiv-2307.06143)](https://github.com/JingleiSHI/KMLFC)
 
-[DDLF (TIP-2022)](https://github.com/JingleiSHI/DDLF)
+[QDLR-NeRF (ICASSP-2023)](https://github.com/JingleiSHI/QDLR-NeRF)
 
 Feel free to use and cite them!
 
